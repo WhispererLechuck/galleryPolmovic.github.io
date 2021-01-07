@@ -16,7 +16,7 @@ body{
   /*font-family: 'Yellowtail', cursive;*/
   height: 65px;
   align-items: center;
-  background-color: rgb(104, 182, 87);
+  background-image: linear-gradient(rgb(104, 182, 87), rgb(110, 195, 110));  
   position: fixed;
   top: 0px;
   width: 100%;
